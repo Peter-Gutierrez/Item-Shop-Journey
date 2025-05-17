@@ -1,0 +1,48 @@
+Hesper King, Good Luck Gunslinger, 1200, 2025-05-11
+Backlash, Boundless, 1800, 2020-09-11
+Joltara, Boundless, 1800, 2020-09-11
+Polarity, Boundless, 1800, 2020-09-11
+Mrs. Incredible, The Incredibles, 1500, 2024-09-28
+Mace Windu, The Prequel Trilogy, 1500, 2025-05-09
+Darth Maul, The Prequel Trilogy, 1500, 2023-05-02
+Han Solo, Original Trilogy, 1500, 2022-11-01
+Luke Skywalker, Original Trilogy, 1500, 2022-11-01
+Leia Organa, Original Trilogy, 1500, 2022-11-01
+AWR Trooper, Original Trilogy, 1500, 2024-05-04
+Dagobah Luke, Original Trilogy, 1200, 2024-05-03
+Chewbacca, Original Trilogy, 1500, 2024-05-03
+Lando Calrissian, Original Trilogy, 1500, 2024-05-03
+Imperial Stormtrooper, Original Trilogy, 1500, 2019-11-15
+Obi-Wan Kenobi, Sequel Series, 1600, 2022-05-27
+Chani, DUNE, 1500, 2021-10-20
+Paul Atreides, DUNE, 1500, 2021-10-20
+Champion Clix, FNCS Icon, 1200, 2025-05-08
+Champion Lachlan, FNCS Icon, 1200, 2025-05-08
+Champion Loserfruit, FNCS Icon, 1200, 2025-05-08
+Champion Bugha, FNCS Icon, 1200, 2025-05-08
+Rubian, Crimson Gamer, 800, 2025-05-13
+Summitseeker Evie, Summit's Idol, 1200, 2024-01-21
+Skull Trooper, Skull Squad, 1500, 2017-10-30
+Nix Scaarlet, Fae Sunrise, 800, 2024-09-10
+Zuri, Ring General, 1200, 2022-05-16
+Instinct, Counterattack, 1200, 2019-03-03
+Olympian, Mythical Legion, 800, 2025-03-14
+Mel, Backbeat, 800, 2019-05-05
+Killian, Society Operator, 1200, 2023-12-31
+Aura, Uncommon, 800, 2019-05-08
+Focus, Focal Point, 1200, 2021-08-18
+Human Bill, Alien Summer, 1800, 2024-09-10
+Lucien West, Let's Hunt Vampires, 1200, 2023-01-29
+Scourage, Grim Medicine, 1500, 2018-10-12
+Caper, Escape Artists, 1200, 2023-08-27
+Scarlet Commander, Nightfire, 800, 2020-03-22
+Chaos Agent, Final Reckoning, 1500, 2019-10-25
+Mariana, Sea Glow, 1500, 2020-08-22
+Manic, Onibi, 800, 2019-10-05
+Hana, Downhill Demon, 1500, 2023-01-13
+Renegade, Uncommon, 800, 2017-10-25
+Ark'ana, Wings of Anarchy, 1200, 2025-03-04
+Agent Blanc, Epic, 800, 2025-05-14
+Wrecker, Skratch, 1200, 2024-02-18
+Hedron, Edge Factor, 1500, 2021-01-07
+Tour-Ready Sabrina Carpenter, Sabrina Carpenter, 1500, 2025-05-15
