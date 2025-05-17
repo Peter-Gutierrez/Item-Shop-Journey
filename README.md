@@ -7,4 +7,6 @@ It is for those who are curious, so not just for those who love the game Fortnit
 
 Items in the item shop include Fortnite outfits (skins), emotes, cars, music, pickaxes, backblings, wraps, shoes, musical instruments, and my information center will encompass said products. It will ask the user to choose which area they want to know first. For example, if they pick skin, the program will print out the names of the different skins that are out in the item shop that day. The user can even ask if a skin that has already been released but is not in the item shop that day will make a return—this will make a prediction system based on how many times the skin has returned. Essentially, my program will incorporate most of what we learned, so classes, object-oriented programming, .txt files, functions, etc.
 
+As demonstrated above, learning will stick better in the brain if you make it fun. With my project, I wanted to do that. To make that happen, I based it on the game Fortnite. I hope whoever is reading this that you found my CS-40 project fun to play with or at least interesting. Thanks!
+
 If you wish to look at each file that supported my envisionary, I included them in this repository. It ain't no high end Video Game user-interface, but this is a beginner's class. 
